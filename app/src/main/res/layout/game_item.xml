@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="#EEEEEE"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/textViewGameInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Informações do jogo"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Deletar" />
+
+</LinearLayout>

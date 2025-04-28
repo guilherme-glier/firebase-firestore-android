@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846743787300",
+    "project_id": "testeglier",
+    "storage_bucket": "testeglier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846743787300:android:c26b58f37101bda8b685b1",
+        "android_client_info": {
+          "package_name": "com.example.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlWITjhssiuiNPiQ23DsJyeW1nOnrwgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
